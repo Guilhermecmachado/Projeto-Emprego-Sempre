@@ -1,0 +1,11 @@
+body{
+    background: url('../img/img-original/entrevista.jpg') center center no-repeat fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+  }
+  .text{
+    color: rgb(22, 21, 22) !important;
+}

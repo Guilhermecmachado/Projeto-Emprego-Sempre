@@ -1,0 +1,14 @@
+body{
+    background: url('../img/img-original/editar.jpg') center center no-repeat fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+  }
+  .text{
+    color: rgb(22, 21, 22) !important;
+}
+.mt-editar{
+    margin-top: 9rem !important;
+}

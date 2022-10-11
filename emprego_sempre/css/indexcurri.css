@@ -1,0 +1,19 @@
+main{
+    background-image: url('../img/img-original/empresa1.jpg') ;
+    background-position: center;
+    height: 100%;
+    
+}
+
+.op{
+    background-color: rgba(0, 0, 0, 0.023) !important;
+}
+.bg-dark{
+    background-color: rgba(0, 0, 0, 0.075)  !important; 
+}
+.menu{
+text-decoration: none !important;
+}
+.text{
+    color: rgb(22, 21, 22) !important;
+}
